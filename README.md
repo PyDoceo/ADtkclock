@@ -1,4 +1,4 @@
-#**_ADtkclock_**
+**_ADtkclock_**
 
 ADtkclock is simple and "programmable" clock used only in tkinter
 project.
@@ -10,7 +10,7 @@ pip install ADtkclock
 
 ### Short Documentation
 
-####***Digital Clock***
+***Digital Clock***
 Code to make simple _**Digital Clock**_ in your tkinter window.
 ```python
 import tkinter
@@ -21,7 +21,7 @@ label.pack()
 DigitalClock(label)
 root.mainloop()
 ```
-####***Timer***
+***Timer***
 Code to make simple **_Timer_** in your tkinter window.
 ```python
 import tkinter
@@ -32,7 +32,7 @@ label.pack()
 Timer(label, minute=10, second=10)
 root.mainloop()
 ```
-####***Stopwatch***
+***Stopwatch***
 Code to make simple **_Timer_** in your tkinter window.
 ```python
 import tkinter
@@ -45,5 +45,5 @@ stopwatch.start()
 root.mainloop()
 ```
 
-####License
+License
 MIT
